@@ -1,8 +1,8 @@
-# Obsidian Widget for Scriptable (Enhanced Version)
+# Obsidian Widget for Scriptable
 
 This Scriptable script displays your Obsidian notes on iOS/iPadOS Home Screen widgets. Beyond simple note display, it features an intelligent **Time Blocking system** that analyzes task times to visualize "what you need to do right now."
 
-![screenshot](.readme-images/screenshot.png)
+![screenshot](.readme-images/screenshot01.png)
 
 ## Features
 

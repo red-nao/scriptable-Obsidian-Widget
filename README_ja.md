@@ -3,7 +3,7 @@
 
 ObsidianのノートをiOS/iPadOSのホーム画面ウィジェットに表示するためのScriptable用スクリプトです。単なるメモ表示に留まらず、タスクの時刻を解析して「今やるべきこと」を視覚化するインテリジェントなタイムブロック機能を搭載しています。
 
-![screenshot](.readme-images/screenshot.png)
+![screenshot](.readme-images/screenshot01.png)
 
 ## 特徴
 
